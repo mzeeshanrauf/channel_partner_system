@@ -7,7 +7,9 @@ app_license = "MIT"
 
 app_include_js = "channel_partner_system.bundle.js"
 
-fixtures = ["Custom Field", "DocType"]
+fixtures = ["DocType"]
+
+after_install = "channel_partner_system.install.after_install"
 
 scheduler_events = {
     "daily": [
