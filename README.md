@@ -1,0 +1,1 @@
+Full zero-setup ERPNext app
