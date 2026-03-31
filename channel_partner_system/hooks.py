@@ -5,7 +5,7 @@ app_description = "Sales & Plan Management"
 app_email = "you@email.com"
 app_license = "MIT"
 
-app_include_js = "/assets/channel_partner_system/js/sales_order.js"
+app_include_js = "channel_partner_system.bundle.js"
 
 fixtures = ["Custom Field", "DocType"]
 
